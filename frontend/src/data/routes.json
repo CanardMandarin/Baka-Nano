@@ -1,0 +1,22 @@
+{
+  "/": {
+    "title": "Baka nano ? - Free online tool to improve your Hirgana & Katana reading skills !",
+    "breadTitle": "Home",
+    "path": "/"
+  },
+  "/play": {
+    "title": "Baka nano ? - Let's rock !",
+    "breadTitle": "Play",
+    "path": "/play"
+  },
+  "/sentence/:text": {
+    "title": "Sentence : ",
+    "breadTitle": "Sentence",
+    "path": "/sentence/:text"
+  },
+  "/about": {
+    "title": "Baka nano ? - about",
+    "breadTitle": "About",
+    "path": "/about"
+  }
+}
