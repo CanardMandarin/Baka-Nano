@@ -94,7 +94,6 @@ export default {
       })
     },
     withKanji () {
-      this.sentence.sentence = '軍隊は国家の中の国家である、現代の諸悪のひとつである.'
       if (this.sentence.sentence === undefined) return
 
       let match
